@@ -3,7 +3,7 @@
 Plugin Name: Test Auto update Git
 Plugin URI:
 Description: Test
-Version:     0.1
+Version:     0.2
 Author:      Niels
 Author URI:
 */
